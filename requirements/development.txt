@@ -1,0 +1,4 @@
+-e git+https://github.com/sunlightlabs/validictory.git#egg=validictory
+pyyaml
+
+lxml
