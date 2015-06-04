@@ -1,4 +1,13 @@
--e git+https://github.com/sunlightlabs/validictory.git#egg=validictory
+# basic deps
 pyyaml
-
 lxml
+
+# also need to:
+# clone the following locally:
+#
+#   git@github.com:sunlightlabs/validictory.git
+#   git@github.com:sunlightlabs/scrapelib.git
+#
+# for each one, cd to their root directory and run
+#
+#   python setup.py develop
